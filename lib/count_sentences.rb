@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    
+    bundle.pry
   end
 
   def question?
